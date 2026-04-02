@@ -1,16 +1,34 @@
-## Hi there 👋
+Olá, eu sou o Mikael Petriw!
 
-<!--
-**oMikaelito/oMikaelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAPI.
+Atualmente estou focado em melhorar minha lógica de programação, utilizando Java e C, tenho o costume de brincar fazendo alguns sites e estudar um pouco de PHP, HTML, CSS e JavaScript.
+Adoro RPG e busco trabalhar na área de GameDev futuramente.
 
-Here are some ideas to get you started:
+# Olá, eu sou o Mikael Petriw! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFAPI, em busca da minha primeira oportunidade no mercado de tecnologia. 
+
+### 🚀 Sobre mim
+Meu foco atual é construir uma base sólida em engenharia de software. Dedico meu tempo de estudo para aprimorar minha **lógica de programação** e algoritmos, utilizando principalmente **Java e C**. Acredito que dominar os fundamentos é o caminho para ser um desenvolvedor versátil e eficiente.
+
+Além da base acadêmica, exploro o ecossistema Web desenvolvendo projetos práticos com **PHP, JavaScript, HTML e CSS**, unindo a lógica do backend com a interatividade do frontend.
+
+---
+
+### 🛠️ Tecnologias e Estudos
+* **Foco em Lógica & Backend:** Java e C.
+* **Desenvolvimento Web:** PHP, JavaScript, HTML e CSS.
+* **Banco de Dados:** MySQL e phpMyAdmin.
+* **Ferramentas:** Git, GitHub, VS Code.
+
+---
+
+### 🌎 Diferenciais
+* **🇬🇧 Inglês:** Nível Intermediário Superior (B2) — Capacidade de leitura técnica e comunicação funcional.
+* **🎲 Fun Fact:** Sou entusiasta de **RPG e Game Development**. Uso esse hobby para exercitar o pensamento sistêmico e a criação de mecânicas complexas, o que me ajuda a encontrar soluções criativas para desafios reais de programação.
+
+---
+
+### 📫 Vamos conversar?
+* **LinkedIn:** [linkedin.com/in/mikael-petriw](https://www.linkedin.com/in/mikael-petriw)
+* **E-mail:** [mikaelpetriw05@gmail.com](mailto:mikaelpetriw05@gmail.com)
