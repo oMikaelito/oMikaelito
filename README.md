@@ -1,9 +1,3 @@
-Olá, eu sou o Mikael Petriw!
-
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAPI.
-Atualmente estou focado em melhorar minha lógica de programação, utilizando Java e C, tenho o costume de brincar fazendo alguns sites e estudar um pouco de PHP, HTML, CSS e JavaScript.
-Adoro RPG e busco trabalhar na área de GameDev futuramente.
-
 # Olá, eu sou o Mikael Petriw! 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFAPI, em busca da minha primeira oportunidade no mercado de tecnologia. 
