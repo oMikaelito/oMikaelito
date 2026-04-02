@@ -5,7 +5,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFAPI, em bus
 ### 🚀 Sobre mim
 Meu foco atual é construir uma base sólida em engenharia de software. Dedico meu tempo de estudo para aprimorar minha **lógica de programação** e algoritmos, utilizando principalmente **Java e C**. Acredito que dominar os fundamentos é o caminho para ser um desenvolvedor versátil e eficiente.
 
-Além da base acadêmica, exploro o ecossistema Web desenvolvendo projetos práticos com **PHP, JavaScript, HTML e CSS**, unindo a lógica do backend com a interatividade do frontend.
+Além da base acadêmica, exploro um pouco de desenvolvimento Web, fazendo projetos práticos com **PHP, JavaScript, HTML e CSS**.
 
 ---
 
@@ -13,7 +13,7 @@ Além da base acadêmica, exploro o ecossistema Web desenvolvendo projetos prát
 * **Foco em Lógica & Backend:** Java e C.
 * **Desenvolvimento Web:** PHP, JavaScript, HTML e CSS.
 * **Banco de Dados:** MySQL e phpMyAdmin.
-* **Ferramentas:** Git, GitHub, VS Code.
+* **Ferramentas:** GitHub, VSCode.
 
 ---
 
