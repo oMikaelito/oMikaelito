@@ -9,6 +9,7 @@ Desenvolvo e exploro ideias utilizando **Java** e **C**, enquanto me aventuro no
 Meu objetivo é unir o raciocínio estruturado do backend com a agilidade das tecnologias web.
 
 <br>
+
 **Fun Facts:**
 
 * Inglês nível **Intermediário Superior (B2)**.
