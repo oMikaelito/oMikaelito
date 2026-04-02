@@ -1,12 +1,16 @@
-# Olá, eu sou o Mikael Petriw! 👋
+# Olá, eu sou o **Mikael Petriw** 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAPI. Atualmente, foco meus esforços em consolidar uma base sólida em **Lógica de Programação e Algoritmos**.
+Estudante de **Análise e Desenvolvimento de Sistemas** baseado em Pinhais, PR.
 
-🚀 **O que estou desenvolvendo:**
-Utilizo Java e C para fortalecer o raciocínio lógico acadêmico, enquanto exploro o ecossistema Web de forma prática com HTML, CSS, PHP e JavaScript. 
+Atualmente, dedico meu tempo a consolidar e fortalecer minha base em **Lógica de Programação** e **Algoritmos**.
 
-🌍 **Idiomas e Interesses:**
-* 📖 **Inglês:** Nível Intermediário Superior (B2).
-* 🎲 **Fun Fact:** Entusiasta de RPG e apaixonado por games. Enxergo no Game Design uma excelente forma de exercitar a lógica de sistemas, área onde pretendo atuar futuramente.
+Desenvolvo e exploro ideias utilizando **Java** e **C**, enquanto me aventuro no ecossistema Web com **PHP**, **JavaScript**, **HTML** e **CSS**.
 
----
+Meu objetivo é unir o raciocínio estruturado do backend com a agilidade das tecnologias web.
+
+**Fun Facts:**
+
+* Inglês nível **Intermediário Superior (B2)**.
+* Sou um grande entusiasta de **RPG** e **Game Design**.
+* Uso meus hobbies para exercitar o pensamento sistêmico e a criação de mecânicas.
+* Pretendo trabalhar como **GameDev** futuramente.
