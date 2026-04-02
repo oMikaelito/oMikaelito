@@ -1,28 +1,10 @@
 # Olá, eu sou o Mikael Petriw! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFAPI, em busca da minha primeira oportunidade no mercado de tecnologia. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAPI. Acredito que, antes de dominar frameworks complexos, é preciso ter uma base sólida. Por isso, dedico meu tempo atual a aprofundar minha Lógica de Programação e algoritmos.
 
-### 🚀 Sobre mim
-Meu foco atual é construir uma base sólida em engenharia de software. Dedico meu tempo de estudo para aprimorar minha **lógica de programação** e algoritmos, utilizando principalmente **Java e C**. Acredito que dominar os fundamentos é o caminho para ser um desenvolvedor versátil e eficiente.
+Atualmente, foco meus estudos acadêmicos em Java e C, enquanto exploro o desenvolvimento web de forma prática com PHP, JavaScript e MySQL. Meu objetivo é unir o raciocínio estruturado do backend com a agilidade das tecnologias web.
 
-Além da base acadêmica, exploro um pouco de desenvolvimento Web, fazendo projetos práticos com **PHP, JavaScript, HTML e CSS**.
+🌎 Idiomas e Interesses:
+Inglês: Nível Intermediário Superior (B2).
 
----
-
-### 🛠️ Tecnologias e Estudos
-* **Foco em Lógica & Backend:** Java e C.
-* **Desenvolvimento Web:** PHP, JavaScript, HTML e CSS.
-* **Banco de Dados:** MySQL e phpMyAdmin.
-* **Ferramentas:** GitHub, VSCode.
-
----
-
-### 🌎 Diferenciais
-* **🇬🇧 Inglês:** Nível Intermediário Superior (B2) — Capacidade de leitura técnica e comunicação funcional.
-* **🎲 Fun Fact:** Sou entusiasta de **RPG e Game Development**. Uso esse hobby para exercitar o pensamento sistêmico e a criação de mecânicas complexas, o que me ajuda a encontrar soluções criativas para desafios reais de programação.
-
----
-
-### 📫 Vamos conversar?
-* **LinkedIn:** [linkedin.com/in/mikael-petriw](https://www.linkedin.com/in/mikael-petriw)
-* **E-mail:** [mikaelpetriw05@gmail.com](mailto:mikaelpetriw05@gmail.com)
+Fun Fact: Fora das telas, sou entusiasta de RPG e Game Design. Uso esse hobby para exercitar o pensamento sistêmico e a criação de mecânicas complexas, o que me ajuda a encontrar soluções criativas para problemas de lógica no código.
