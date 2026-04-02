@@ -1,8 +1,8 @@
 # Olá, eu sou o **Mikael Petriw** 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** baseado em Pinhais, PR.
+Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFAPI.
 
-Atualmente, dedico meu tempo a consolidar e fortalecer minha base em **Lógica de Programação** e **Algoritmos**.
+Atualmente dedico meu tempo a consolidar e fortalecer minha base em **Lógica de Programação** e **Algoritmos**.
 
 Desenvolvo e exploro ideias utilizando **Java** e **C**, enquanto me aventuro no ecossistema Web com **PHP**, **JavaScript**, **HTML** e **CSS**.
 
