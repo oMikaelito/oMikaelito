@@ -6,6 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFAPI. Acredito que
 Atualmente, foco meus estudos acadêmicos em Java e C, enquanto exploro o desenvolvimento web de forma prática com PHP, JavaScript e MySQL. Meu objetivo é unir o raciocínio estruturado do backend com a agilidade das tecnologias web.
 
 🌎 Idiomas e Interesses:
+
 Inglês: Nível Intermediário Superior (B2).
 
 Fun Fact: Sou entusiasta de RPG, e tenho um grande interesse na área de GameDev
