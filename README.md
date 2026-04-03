@@ -16,5 +16,3 @@ Meu objetivo é unir o raciocínio estruturado do backend com a agilidade das te
 * Sou um grande entusiasta de **RPG** e **Game Design**.
 * Uso meus hobbies para exercitar o pensamento sistêmico e a criação de mecânicas.
 * Pretendo trabalhar como **GameDev** futuramente.
-
-![Stats](./profile/stats.svg)
