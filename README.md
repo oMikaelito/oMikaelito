@@ -45,7 +45,7 @@ Atualmente dedico meu tempo a consolidar e fortalecer minha base em Lógica de P
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
     align="left" 
