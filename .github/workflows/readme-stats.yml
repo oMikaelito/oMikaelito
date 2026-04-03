@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true&locale=pt-br
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true&locale=pt-br
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -30,7 +30,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&rank_icon=github&hide_border=true&custom_title=Tecnologias
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=9&theme=tokyonight&rank_icon=github&hide_border=true&custom_title=Tecnologias
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
