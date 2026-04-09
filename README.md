@@ -3,7 +3,7 @@
 
 Me chamo Mikael Petriw, tenho 21 nascido em Curitiba, estudante de **Análise e Desenvolvimento de Sistemas** na UNIFAPI.
 
-Atualmente dedico meu tempo a consolidar e fortalecer minha base em Lógica de Programação e Algoritmos, desenvolvendo e exploroando minhas ideias utilizando Java e C, enquanto me aventuro no ecossistema Web com PHP, JavaScript, HTML e CSS.
+Atualmente dedico meu tempo a consolidar e fortalecer minha base em Lógica de Programação e Algoritmos, desenvolvendo e exploroando minhas ideias utilizando Java, C e Python, enquanto me aventuro no ecossistema Web com PHP, JavaScript, HTML e CSS.
 
 <br>**Fun Facts:**
 * Inglês nível **Intermediário Superior (B2)**.
